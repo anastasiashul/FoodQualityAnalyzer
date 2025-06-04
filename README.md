@@ -1,1 +1,1 @@
-# FoodQualityAnalyzer
+Проект "FoodQualityAnalyzer"
