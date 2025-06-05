@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FQA_DTO xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <foodProducts>
+    <FP_DTO xsi:type="V">
+      <Name>Морковь</Name>
+      <DaysToExpire>5</DaysToExpire>
+      <MaxShelfLife>10</MaxShelfLife>
+      <Washed>true</Washed>
+      <Color>orange</Color>
+    </FP_DTO>
+    <FP_DTO xsi:type="V">
+      <Name>Картофель</Name>
+      <DaysToExpire>15</DaysToExpire>
+      <MaxShelfLife>30</MaxShelfLife>
+      <Washed>false</Washed>
+      <Color>brown</Color>
+    </FP_DTO>
+    <FP_DTO xsi:type="V">
+      <Name>Помидор</Name>
+      <DaysToExpire>7</DaysToExpire>
+      <MaxShelfLife>10</MaxShelfLife>
+      <Washed>false</Washed>
+      <Color>red</Color>
+    </FP_DTO>
+    <FP_DTO xsi:type="V">
+      <Name>Огурец</Name>
+      <DaysToExpire>3</DaysToExpire>
+      <MaxShelfLife>10</MaxShelfLife>
+      <Washed>true</Washed>
+      <Color>green</Color>
+    </FP_DTO>
+    <FP_DTO xsi:type="F">
+      <Name>Яблоко</Name>
+      <DaysToExpire>7</DaysToExpire>
+      <MaxShelfLife>14</MaxShelfLife>
+      <SweetnessLevel>7</SweetnessLevel>
+      <IsRipe>true</IsRipe>
+    </FP_DTO>
+    <FP_DTO xsi:type="F">
+      <Name>Банан</Name>
+      <DaysToExpire>3</DaysToExpire>
+      <MaxShelfLife>10</MaxShelfLife>
+      <SweetnessLevel>9</SweetnessLevel>
+      <IsRipe>false</IsRipe>
+    </FP_DTO>
+    <FP_DTO xsi:type="F">
+      <Name>Груша</Name>
+      <DaysToExpire>2</DaysToExpire>
+      <MaxShelfLife>7</MaxShelfLife>
+      <SweetnessLevel>2</SweetnessLevel>
+      <IsRipe>true</IsRipe>
+    </FP_DTO>
+    <FP_DTO xsi:type="F">
+      <Name>Мандарин</Name>
+      <DaysToExpire>10</DaysToExpire>
+      <MaxShelfLife>11</MaxShelfLife>
+      <SweetnessLevel>4</SweetnessLevel>
+      <IsRipe>false</IsRipe>
+    </FP_DTO>
+    <FP_DTO xsi:type="M">
+      <Name>Курица</Name>
+      <DaysToExpire>2</DaysToExpire>
+      <MaxShelfLife>7</MaxShelfLife>
+      <FatContent>10</FatContent>
+      <IsFrozen>true</IsFrozen>
+    </FP_DTO>
+    <FP_DTO xsi:type="M">
+      <Name>Говядина</Name>
+      <DaysToExpire>5</DaysToExpire>
+      <MaxShelfLife>10</MaxShelfLife>
+      <FatContent>25</FatContent>
+      <IsFrozen>false</IsFrozen>
+    </FP_DTO>
+    <FP_DTO xsi:type="B">
+      <Name>Хлеб</Name>
+      <DaysToExpire>2</DaysToExpire>
+      <MaxShelfLife>5</MaxShelfLife>
+      <IsGlutenFree>false</IsGlutenFree>
+      <SugarContent>5</SugarContent>
+    </FP_DTO>
+    <FP_DTO xsi:type="B">
+      <Name>Безглютеновый кекс</Name>
+      <DaysToExpire>3</DaysToExpire>
+      <MaxShelfLife>7</MaxShelfLife>
+      <IsGlutenFree>true</IsGlutenFree>
+      <SugarContent>15</SugarContent>
+    </FP_DTO>
+    <FP_DTO xsi:type="B">
+      <Name>Булочка</Name>
+      <DaysToExpire>4</DaysToExpire>
+      <MaxShelfLife>5</MaxShelfLife>
+      <IsGlutenFree>false</IsGlutenFree>
+      <SugarContent>10</SugarContent>
+    </FP_DTO>
+    <FP_DTO xsi:type="B">
+      <Name>Кекс</Name>
+      <DaysToExpire>4</DaysToExpire>
+      <MaxShelfLife>7</MaxShelfLife>
+      <IsGlutenFree>false</IsGlutenFree>
+      <SugarContent>14</SugarContent>
+    </FP_DTO>
+    <FP_DTO xsi:type="V">
+      <Name>й</Name>
+      <DaysToExpire>1</DaysToExpire>
+      <MaxShelfLife>1</MaxShelfLife>
+      <Washed>true</Washed>
+      <Color>й</Color>
+    </FP_DTO>
+  </foodProducts>
+</FQA_DTO>
