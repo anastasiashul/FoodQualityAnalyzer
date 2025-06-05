@@ -1,0 +1,9 @@
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.csproj.AssemblyReference.cache
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\Lab_10.Form2.resources
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\Lab_10.Main.resources
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.Properties.Resources.resources
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.csproj.GenerateResource.cache
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.AssemblyInfoInputs.cache
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.AssemblyInfo.cs
+D:\Users\user\c#\Lab10.1\Lab_10\Lab_10\obj\Debug\net8.0-windows\FoodQualityAnalyzer.csproj.CoreCompileInputs.cache
